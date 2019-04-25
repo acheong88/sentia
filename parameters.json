@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_windoo_name": {
+            "value": null
+        },
+        "vaults_lauchdown_name": {
+            "value": null
+        },
+        "virtualNetworks_causeway_name": {
+            "value": null
+        },
+        "storageAccounts_forcenet_name": {
+            "value": null
+        },
+        "loadBalancers_vangaurdnet_name": {
+            "value": null
+        },
+        "serverfarms_ServicePlan56719db4_bd96_name": {
+            "value": null
+        }
+    }
+}
